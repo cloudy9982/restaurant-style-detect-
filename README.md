@@ -1,1 +1,6 @@
-# restaurant-style-detect-
+# 餐廳風格預測
+
+## target:運用斷詞系統及one_hot_encoding來預測餐廳風格
+
+遇到問題：
+因為輸入的輸入的data太過於偏向某一風格，所以變成所以變成model大部分都會猜同一種，關於這方面的解決方式我們認為從資料去著手，我們認為從資料去著手，model訓練時可以平衡一下輸入的data
